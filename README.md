@@ -1,3 +1,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=parkero2&show_icons=true&theme=synthwave">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/parkero2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkero2)](https://github.com/parkero2/repositories)
